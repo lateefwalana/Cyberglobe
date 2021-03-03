@@ -7,7 +7,7 @@ sections:
     section_id: hero
     content: >
       Network engineers are similar to civil engineers. The difference is we
-      build rule infrastructure for applications instead of automotives.
+      build digital infrastructure for applications instead of automotives.
   - type: section_content
     title: About
     section_id: about
