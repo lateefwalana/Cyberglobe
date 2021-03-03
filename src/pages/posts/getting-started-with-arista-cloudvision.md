@@ -1,5 +1,5 @@
 ---
-title: Getting started with Arista cloudvisioin
+title: Getting started with Arista cloudvision
 subtitle: lorem-ipsum
 date: '2021-03-03'
 thumb_img_alt: lorem-ipsum
