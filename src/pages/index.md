@@ -5,9 +5,9 @@ sections:
   - type: section_hero
     title: I am a network enginer
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Network engineers are similar to civil engineers. The difference is we
+      build rule infrastructure for applications instead of automotives.
   - type: section_content
     title: About
     section_id: about
