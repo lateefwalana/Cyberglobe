@@ -39,7 +39,8 @@
                 "type": "action",
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "link",
+                "icon_class": "github"
             }
         ],
         "has_social": true,
