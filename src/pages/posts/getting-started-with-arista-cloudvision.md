@@ -1,6 +1,6 @@
 ---
 title: Getting started with Arista cloudvision
-subtitle: lorem-ipsum
+subtitle: cloudvision
 date: '2021-03-03'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
