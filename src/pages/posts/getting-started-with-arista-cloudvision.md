@@ -4,7 +4,7 @@ subtitle: cloudvision
 date: '2021-03-03'
 thumb_img_alt: Arista - cloudvision
 content_img_alt: getting started with cloudvisioin
-excerpt: lorem-ipsum
+excerpt: 'cloudvision is Arista way '
 seo:
   title: ''
   description: ''
