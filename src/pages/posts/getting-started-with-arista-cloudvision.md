@@ -15,9 +15,12 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+## Building Arista leaf spine lab in eve/GNS3
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   GNS3
 
-- Lorem ipsum
-- dolor sit amet
+*   eve-NG
+
+*   Arisa vEos
+
+*   cloudvision
