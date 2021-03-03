@@ -2,7 +2,7 @@
 title: Getting started with Arista cloudvision
 subtitle: cloudvision
 date: '2021-03-03'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Arista - cloudvision
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
