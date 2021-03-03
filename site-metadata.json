@@ -14,7 +14,8 @@
                 "type": "action",
                 "label": "Home",
                 "url": "/",
-                "style": "link"
+                "style": "link",
+                "icon_class": "facebook"
             },
             {
                 "type": "action",
