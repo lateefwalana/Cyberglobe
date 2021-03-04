@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: I am a network enginer
+    title: I am a network engineer
     section_id: hero
     content: >
       Network engineers are similar to civil engineers. The difference is we
