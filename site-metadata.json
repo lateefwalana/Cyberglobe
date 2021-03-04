@@ -70,5 +70,6 @@
         "content": "&copy; CyberGlobe. All rights reserved. "
     },
     "domain": "https://cyberglobe-fe16f.netlify.app",
-    "favicon": "/images/cg-transparent.png"
+    "favicon": "/images/cg-transparent.png",
+    "title": "Networking made simple"
 }
