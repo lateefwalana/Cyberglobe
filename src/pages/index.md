@@ -32,7 +32,7 @@ sections:
         style: button
 seo:
   type: stackbit_page_meta
-  title: Stackbit Fresh Theme
+  title: Networking made simple!
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
