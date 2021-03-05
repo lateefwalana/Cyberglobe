@@ -33,7 +33,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Networking made simple!
-  description: The preview of the Fresh theme
+  description: 'Network tutorials '
   extra:
     - name: 'og:type'
       value: website
