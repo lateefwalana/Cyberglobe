@@ -32,8 +32,8 @@ sections:
         style: button
 seo:
   type: stackbit_page_meta
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Networking made simple!
+  description: 'Network tutorials '
   extra:
     - name: 'og:type'
       value: website
