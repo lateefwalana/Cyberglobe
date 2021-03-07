@@ -14,7 +14,7 @@ collections:
           - widget: string
             name: title
             label: Title
-            required: false
+            required: true
             hint: Site title
           - widget: string
             name: domain
